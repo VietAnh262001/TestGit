@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("chao cau chu");
+            Console.WriteLine("chao cau chu viet anh");
         }
     }
 }
